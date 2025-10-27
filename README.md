@@ -16,6 +16,6 @@
       align="left" 
       alt="Top Languages" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiagoboldori&theme=tokyonight&layout=compact&custom_title=Technologies&langs_count=9&cache_seconds=10" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiagoboldori&theme=tokyonight&layout=compact&custom_title=Technologies&langs_count=9&cache_seconds=1800" 
   />
 </p>
