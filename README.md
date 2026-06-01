@@ -11,7 +11,7 @@
   ## 🐍 Contribuições
 
 <p align="center">
-   <img src="https://raw.githubusercontent.com/tiagoboldori/tiagoboldori/github-contribution-grid-snake.svg"/>
+   <img src="https://raw.githubusercontent.com/tiagoboldori/tiagoboldori/github-user-contribution.svg"/>
 </p>
   
 </div>
